@@ -1,2 +1,2 @@
 # Web_project
-This is my web repository of class project
+This is my web repository for class project
